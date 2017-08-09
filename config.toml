@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://blogxin.netlify.com/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium-theme"
@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "aa.png"
     width = 50
     height = 50
     alt = "Logo"
